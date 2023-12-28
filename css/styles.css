@@ -11149,3 +11149,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* font-awesome link */
+.fab:before,
+.fa-solid.fa-square-rss:before {
+  display: inline-block;
+  text-decoration: none;
+}
